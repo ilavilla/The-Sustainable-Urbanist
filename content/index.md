@@ -1,6 +1,10 @@
 ---
 title: Welcome to Quartz
+draft: false
 ---
+Hola, Soy Ila. 
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
+Primera nota, ve mis proyectos:
+
+[[Proyectos]]
